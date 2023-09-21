@@ -18,3 +18,5 @@ Summary of the project:
   7. The data is then stored in a Pandas DataFrame and written to an Excel file with a save button to save the file, which opens a dialog to save the file to a selected directory.
 The project is documented in code - for each function, and a code block.
 You can also see the steps of the execution by pictures that were created, and saved in the pics folder, for example:
+
+![image](https://github.com/TamarShayo/PicToExel/assets/120498576/d0a2a14b-c389-4b82-9cb8-fd852aa6048a)
