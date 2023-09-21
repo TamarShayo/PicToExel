@@ -5,7 +5,7 @@ Use of libraries: tkinter, pandas, opencv.
 Tkinter: creating the GUI.
 Pandas: handling data and storing it in an Excel file.
 Opencv: image processing.
-#Summary of the project:
+==Summary of the project:==__
 1. Importing all necessary libraries, including tkinter, pandas, OpenCV and other libraries.
 2. Creating a screen - Tkinter's user interface and designing a screen so that the screen includes:
 • Button that opens a dialog box for selecting an image.
@@ -19,20 +19,20 @@ Opencv: image processing.
 The project is documented in code - for each function, and a code block.
 You can also see the steps of the execution by pictures that were created, and saved in the pics folder, for example:
 
-Choose the image:
+Choose the image:__
 ![image](https://github.com/TamarShayo/PicToExel/assets/120498576/91746a67-2dde-4672-ab24-5af700bfd224)
 
-Converting the image to binary:
+Converting the image to binary:__
 ![image](https://github.com/TamarShayo/PicToExel/assets/120498576/9e83154d-b344-4feb-86ff-c3f638ae6f8a)
 
-vertical lines:
+vertical lines:__
 ![image](https://github.com/TamarShayo/PicToExel/assets/120498576/82d75c01-842f-43a2-a3eb-b60a5cf71b4c)
 
-horizon lines:
+horizon lines:__
 ![image](https://github.com/TamarShayo/PicToExel/assets/120498576/1a36e6f1-8b96-4672-b2cd-b96559e89404)
 
-Combining the lines:
+Combining the lines:__
 ![image](https://github.com/TamarShayo/PicToExel/assets/120498576/567f87ab-6619-49e4-a802-73d162a62f41)
 
-Created the output.xlsx file:
+Created the output.xlsx file:__
 ![image](https://github.com/TamarShayo/PicToExel/assets/120498576/2ef44ecc-474a-429e-bb58-eeba24de1a28)
